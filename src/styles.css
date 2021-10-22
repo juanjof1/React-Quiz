@@ -2,7 +2,8 @@ div {
   background-color: black;
   color: aliceblue;
   padding: 10px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 button {
