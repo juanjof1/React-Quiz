@@ -1,0 +1,20 @@
+div {
+  background-color: black;
+  color: aliceblue;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  color: rgb(247, 204, 15);
+  font-size: 16px;
+  margin: 4px 6px;
+  grid-area: 1/2;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+  padding: 10px;
+}
